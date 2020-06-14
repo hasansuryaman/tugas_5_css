@@ -2,4 +2,4 @@
 
 Text Align, Text Transform.
 
-![tugas5](screen/tugas5.css)
+![tugas5](screen/tugas5.png)
